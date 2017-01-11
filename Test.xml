@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Accounts>
+  <Account>
+        <CompanyID>12345</CompanyID>
+		<CompanyName> United Techno </CompanyName>
+		<Website>http://unitedtechno.com</Website>
+		<StreetAddress1>4F PM Tower</StreetAddress1>
+		<StreetAddress2>Greams Road</StreetAddress2>
+		<City>Chennai</City>
+		<State>Tamil Nadu</State>
+		<PostalCode>600006</PostalCode>
+		<Country>India</Country>
+		<FirstName>Divya Lakshmi</FirstName>
+		<LastName>N</LastName>
+		<Email>divya@unitedtechno.com</Email>
+		<Phone>26494935</Phone>
+		<Industry>Test</Industry>
+		<ContactList>
+			<Contact>1111111111</Contact>
+			<Contact>2222222222</Contact>
+		</ContactList>
+   </Account>
+   <Account>
+        <CompanyID>456789</CompanyID>
+		<CompanyName> HCL </CompanyName>
+		<Website>http://hcl.com</Website>
+		<StreetAddress1>29H Yahi Tower</StreetAddress1>
+		<StreetAddress2>Velachery Road</StreetAddress2>
+		<City>Chennai</City>
+		<State>Tamil Nadu</State>
+		<PostalCode>600118</PostalCode>
+		<Country>India</Country>
+		<FirstName>Senthil</FirstName>
+		<LastName>S</LastName>
+		<Email>senthils@unitedtechno.com</Email>
+		<Phone>26494935</Phone>
+		<Industry>Application Services</Industry>
+		<ContactList>
+			<Contact>3333333333</Contact>
+			<Contact>4444444444</Contact>
+		</ContactList>
+   </Account>
+</Accounts>
+
